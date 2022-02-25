@@ -1,1 +1,1 @@
-# improved_snl_unet
+# improved-snl-unet

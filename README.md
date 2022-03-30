@@ -55,7 +55,7 @@ If you use our code or model in your work or find it is helpful, please cite the
   doi={10.1109/ACCESS.2022.3161507}}
   ```
 
-## reference
+## Reference
 
 1. [SNL_ICCV2021](https://github.com/zh460045050/SNL_ICCV2021)
 2. [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)

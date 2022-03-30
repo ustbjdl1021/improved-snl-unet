@@ -2,7 +2,7 @@
 
 This repo is the official implementation for [Segmentation and Measurement of Superalloy Microstructure Based on Improved Nonlocal Block](https://ieeexplore.ieee.org/document/9739731). 
 
-## improved-snl-unet
+## Improved-snl-unet
 
 ![improved-snl-block](https://github.com/ustbjdl1021/improved-snl-unet/blob/main/pic/block.png)
 

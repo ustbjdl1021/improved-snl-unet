@@ -42,7 +42,7 @@ class ImprovedSNL(nn.Module):
         m_hat = m / 2
         degree = torch.sum(m_hat, dim=2)
         degree[degree != 0] = torch.sqrt(1.0 / degree[degree != 0])
-        affinity_matrix *= degree.unsqueeze(1)
+        affinity_matrix = m_hat * degree.unsqueeze(1)
         affinity_matrix *= degree.unsqueeze(2)
         
         return affinity_matrix
